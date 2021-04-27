@@ -1,0 +1,5 @@
+label: dos
+label-id: 0xb32cab23
+device: /dev/sdb
+unit: sectors
+sector-size: 512
